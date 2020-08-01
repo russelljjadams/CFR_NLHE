@@ -35,7 +35,7 @@
 <br />
 
   <p align="center">
-    An example in Python.
+    No-Limit Holdem in Python.
   </p>
 </p>
 
