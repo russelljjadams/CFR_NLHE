@@ -41,6 +41,7 @@
 
   <h3 align="center">No-Limit Holdem</h3>
   <p align="center">A Python Implementation
+    <br />
     <a href="https://github.com/russelljjadams/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
